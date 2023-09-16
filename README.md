@@ -1,8 +1,12 @@
 # Project-Obelisk (Currently In Progress)
 ## An Active Directory Virtualization Project between a Windows Server virtual machine and 2 client virtual machines running Windows 11 Enterprise  
 
-![All the virtual machines](https://github.com/NowlinB/Project-Obelisk/assets/38094031/bc26da95-27e4-4afe-894a-6b2ef9d28cdf)  
+![All the virtual machines](https://github.com/NowlinB/Project-Obelisk/assets/38094031/bc26da95-27e4-4afe-894a-6b2ef9d28cdf)     
 
+## Goals for the Project
+To create an identity and access management solution for a fictitious company called Obelisk.     
+
+To simulate an enterprise domain environment while ensuring security best practices. This will be achieved through the management of group policy and implementation of the principle of least privilege
 ## Initial Setup
 I started with the creation of the Windows server vm. After installing the os I added active directory to the roles and features.  
 
@@ -31,7 +35,3 @@ As we can see the client is now apart of the local domain, named obelisk
 
 
 A sample of the audit policy whereby I have configured auditing for failed logon attempts, successful logins, successful and failed logoffs and finally special logons (administrative equivalent prviliges)
-## Goals for the Project
-To create an identity and access management solution for a fictitious company called Obelisk.  
-
-To simulate an enterprise domain environment while ensuring security best practices. This will be achieved through the management of group policy and implementation of the principle of least privilege
