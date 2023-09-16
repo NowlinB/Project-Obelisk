@@ -3,7 +3,7 @@
 
 ![All the virtual machines](https://github.com/NowlinB/Project-Obelisk/assets/38094031/bc26da95-27e4-4afe-894a-6b2ef9d28cdf)  
 
-##Initial Setup
+## Initial Setup
 I started with the creation of the Windows server vm and after installing the os added active directory to the roles and features.  
 
 Then after the clients operating systems were installed on the vms I then configured a static ip address representing the dns server on the server vm  
