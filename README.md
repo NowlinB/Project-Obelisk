@@ -6,4 +6,4 @@
 ## Goals for the Project
 To create an identity and access management solution for a fictitious company called Obelisk  
 
-Simulate an enterprise domain environment ensuring security best practices through the management of group policy and principle of least privilege
+To Simulate an enterprise domain environment ensuring security best practices through the management of group policy and implementation of the principle of least privilege
