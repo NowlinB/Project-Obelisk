@@ -34,4 +34,4 @@ As we can see the client is now apart of the local domain, named obelisk
 ![Audit Policy Sample](https://github.com/NowlinB/Project-Obelisk/assets/38094031/307c3410-de59-4c70-a681-af063d318a8d)    
 
 
-A sample of the audit policy whereby I have configured auditing for failed logon attempts, successful logins, successful and failed logoffs and finally special logons (administrative equivalent privileges)
+A sample of the audit policy whereby I have configured auditing for successful and failed logons, successful and failed logoffs and finally special logons (administrative equivalent privileges)
