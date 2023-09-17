@@ -38,7 +38,12 @@ As we can see the client is now apart of the local domain, named obelisk
 
      
 ## Group Policy  <a name="group-policy"></a>
+
+A policy to block users from accessing the command and powershell    
+
+![Block powershell and cmd](https://github.com/NowlinB/Project-Obelisk/assets/38094031/78b5a374-f7af-4018-b7c3-b16756b501c0)   
+
+
+A sample of the audit policy whereby I have configured auditing for account lockouts, successful logons, successful and failed logoffs and finally special logons (administrative equivalent privileges)    
+
 ![Audit Policy Sample](https://github.com/NowlinB/Project-Obelisk/assets/38094031/307c3410-de59-4c70-a681-af063d318a8d)    
-
-
-A sample of the audit policy whereby I have configured auditing for account lockouts, successful logons, successful and failed logoffs and finally special logons (administrative equivalent privileges)
