@@ -3,11 +3,16 @@
 
 ![All the virtual machines](https://github.com/NowlinB/Project-Obelisk/assets/38094031/bc26da95-27e4-4afe-894a-6b2ef9d28cdf)     
 
-## Goals for the Project
+# Table of Contents
+[Goals](#goals)
+[Initial Setup](#initial-setup)
+[Group Policy](#group-policy)  
+
+## Goals for the Project  <a name="goals"></a>
 To create an identity and access management solution for a fictitious company called Obelisk.     
 
 To simulate an enterprise domain environment while ensuring security best practices. This will be achieved through the management of group policy and implementation of the principle of least privilege
-## Initial Setup
+## Initial Setup  <a name="initial-setup"></a>
 I started with the creation of the Windows server vm. After installing the os I added active directory to the roles and features.  
 
 After the clients operating systems were installed on the vms a static ip address was configured representing the dns server on the server vm   
@@ -30,7 +35,7 @@ Now that the users were created I then joined each client to the domain
 As we can see the client is now apart of the local domain, named obelisk
 
      
-## Group Policy 
+## Group Policy  <a name="group-policy"></a>
 ![Audit Policy Sample](https://github.com/NowlinB/Project-Obelisk/assets/38094031/307c3410-de59-4c70-a681-af063d318a8d)    
 
 
