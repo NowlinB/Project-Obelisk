@@ -45,7 +45,7 @@ Each policy only does one thing which aims to simplify management and to make fu
 
 ![Group policy examples](https://github.com/NowlinB/Project-Obelisk/assets/38094031/94eb8d91-61ad-4e4c-a5ad-641704164b3d)  
 
-A policy to block users from accessing the command line, powershell, and powershell ise.
+For example here is a policy created to block users from accessing the command line, powershell, and powershell ise.
 
 ![Block powershell and cmd](https://github.com/NowlinB/Project-Obelisk/assets/38094031/78b5a374-f7af-4018-b7c3-b16756b501c0)   
 
