@@ -39,9 +39,10 @@ As we can see the client is now apart of the local domain, named obelisk
      
 ## Group Policy  <a name="group-policy"></a>
 
-The group policy on the Windows server followed the naming convention U_Policy and C_Policy for users and computer group policy respectively    
+The group policy on the Windows server followed the naming convention U_Policy and C_Policy for indicate user and computer configuration respectively
 
-Each policy only does one thing which aims to simply management and makes future changes much easier
+Each policy only does one thing which aims to simplify management and to make future changes much easier  
+
 ![Group policy examples](https://github.com/NowlinB/Project-Obelisk/assets/38094031/8605ffe1-b3a0-47cd-9588-964597bbb409)
 
 
