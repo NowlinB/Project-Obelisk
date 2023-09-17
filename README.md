@@ -27,8 +27,8 @@ All of the vms are able to communicate with one another since they are on the sa
 
 Next I created the user accounts that the clients will need to log in to the domain after joining it.  
 
-![Created Users](https://github.com/NowlinB/Project-Obelisk/assets/38094031/16c9df92-cdac-4904-9736-7041f56d0afa)  
-
+ ![Created Users](https://github.com/NowlinB/Project-Obelisk/assets/38094031/36231110-6f63-451d-a237-b223c353ec76)  
+  
 Now that the users were created I then joined each client to the domain.  
 
 ![Joining Users to Domain](https://github.com/NowlinB/Project-Obelisk/assets/38094031/4474b509-bdc7-48a3-b2a7-95a79ccdc87b)
