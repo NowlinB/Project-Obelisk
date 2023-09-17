@@ -58,7 +58,7 @@ A sample of the audit policy whereby I have configured auditing for account lock
 
 ## Remote Connection   <a name="remote-desktop"></a>
 
-I setup remote desktop connections on both computers to allow the server to remotely connect to either client through the domain admin user account named brandon.nowlin@obelisk.local  
+I setup remote desktop connections on both computers to allow the server to remotely connect to either client through the privileged domain admin user account named brandon.nowlin@obelisk.local  
 
 ![Setting up remote desktop on the client pcs](https://github.com/NowlinB/Project-Obelisk/assets/38094031/bcb46c1f-04a6-4221-a1d1-621e3c3c8543)   
 
