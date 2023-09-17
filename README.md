@@ -62,7 +62,7 @@ I setup remote desktop connections on both computers to allow the server to remo
 
 ![Setting up remote desktop on the client pcs](https://github.com/NowlinB/Project-Obelisk/assets/38094031/bcb46c1f-04a6-4221-a1d1-621e3c3c8543)   
 
-Now I am remoting into client 2 from Windows server  
+Now I am remoting into client 2 from the Windows server  
 
 ![Remoting in to User 2 on the Windows Server](https://github.com/NowlinB/Project-Obelisk/assets/38094031/615c2bf6-3cd6-4a58-8338-85acf5c3385d)  
 
