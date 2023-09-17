@@ -8,7 +8,9 @@
 
 [Initial Setup](#initial-setup)      
 
-[Group Policy](#group-policy)      
+[Group Policy](#group-policy)   
+
+[Remote Desktop](#remote-desktop)
 
 ## Goals for the Project  <a name="goals"></a>
 To create an identity and access management solution for a fictitious company called Obelisk.     
@@ -54,7 +56,7 @@ A sample of the audit policy whereby I have configured auditing for account lock
 
 ![Audit Policy Sample](https://github.com/NowlinB/Project-Obelisk/assets/38094031/307c3410-de59-4c70-a681-af063d318a8d)     
 
-## Remote Connection  
+## Remote Connection   <a name="remote-desktop"></a>
 
 I setup remote desktop connections on both computers to allow the server to remotely connect to either client through the domain admin user account named brandon.nowlin@obelisk.local  
 
