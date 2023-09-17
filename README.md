@@ -52,4 +52,21 @@ For example here is a policy created to block users from accessing the command l
 
 A sample of the audit policy whereby I have configured auditing for account lockouts, successful logons, successful and failed logoffs and finally special logons. (administrative equivalent privileges)    
 
-![Audit Policy Sample](https://github.com/NowlinB/Project-Obelisk/assets/38094031/307c3410-de59-4c70-a681-af063d318a8d)    
+![Audit Policy Sample](https://github.com/NowlinB/Project-Obelisk/assets/38094031/307c3410-de59-4c70-a681-af063d318a8d)     
+
+## Remote Connection  
+
+I setup remote desktop connections on both computers to allow the server to remotely connect to either client through the domain admin user account named brandon.nowlin@obelisk.local  
+
+![Setting up remote desktop on the client pcs](https://github.com/NowlinB/Project-Obelisk/assets/38094031/bcb46c1f-04a6-4221-a1d1-621e3c3c8543)   
+
+Now I am remoting into client 2 from Windows server  
+
+![Remoting in to User 2 on the Windows Server](https://github.com/NowlinB/Project-Obelisk/assets/38094031/615c2bf6-3cd6-4a58-8338-85acf5c3385d)  
+
+And success!  
+
+![Remote Connection Success](https://github.com/NowlinB/Project-Obelisk/assets/38094031/301c4d85-582d-4849-a537-f9e5b16710f0)
+
+
+
