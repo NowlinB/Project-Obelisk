@@ -4,9 +4,11 @@
 ![All the virtual machines](https://github.com/NowlinB/Project-Obelisk/assets/38094031/bc26da95-27e4-4afe-894a-6b2ef9d28cdf)     
 
 # Table of Contents
-[Goals](#goals)
-[Initial Setup](#initial-setup)
-[Group Policy](#group-policy)  
+[Goals](#goals)   
+
+[Initial Setup](#initial-setup)      
+
+[Group Policy](#group-policy)      
 
 ## Goals for the Project  <a name="goals"></a>
 To create an identity and access management solution for a fictitious company called Obelisk.     
