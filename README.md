@@ -39,6 +39,13 @@ As we can see the client is now apart of the local domain, named obelisk
      
 ## Group Policy  <a name="group-policy"></a>
 
+The group policy on the Windows server followed the naming convention U_Policy and C_Policy for users and computer group policy respectively    
+
+Each policy only does one thing which aims to simply management and makes future changes much easier
+![Group policy examples](https://github.com/NowlinB/Project-Obelisk/assets/38094031/8605ffe1-b3a0-47cd-9588-964597bbb409)
+
+
+
 A policy to block users from accessing the command line, powershell, and powershell ise
 
 ![Block powershell and cmd](https://github.com/NowlinB/Project-Obelisk/assets/38094031/78b5a374-f7af-4018-b7c3-b16756b501c0)   
